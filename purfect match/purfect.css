@@ -1,0 +1,66 @@
+.content
+{
+	text-align : center;
+	padding-top: 25%;
+	color: white;
+	font-family: lato;
+
+
+}
+.btt
+{
+	background-color: white;
+	color: black;
+	border: none;
+	font-family: lato;
+}
+
+body<---hi ->
+{
+	background-image: url(https://images.unsplash.com/photo-1506014299253-3725319c0f69?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80);
+  background-size: cover;
+  background-position: center;
+
+}
+.nav1
+{
+	background-color: white;
+	text-align: center;
+}
+.navbar-brand
+{
+	font-size: 25px;
+		font-family: lato ;
+		color: rgb(35, 232, 232);
+	}
+
+.navbar-default .navbar-nav>li>a
+{
+	font-family: lato;
+
+}
+
+
+h1{
+font-size: 5em;
+font-weight: bold;
+color: rgb(35, 232, 232);
+
+
+	}
+
+h4{
+	text-shadow: 0px 4px 8px rgba(0,0,0,0.4)
+             0px 8px 12px rgba(0,0,0,0.1)
+             0px 18px 23px rgba(0,0,0,0.1)
+
+}	
+
+html{
+	height:100%;
+}
+hr{
+	width : 400px;
+	border-top: 1px solid #f8f8f8
+	border-bottom: 1px solid rdba(0,0,0,0.2);
+}
